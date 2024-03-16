@@ -17,7 +17,7 @@
 ### 📌 Saída
 </br>
 
-- 
+- A saída deve conter a frase "Status:" seguida das informações do método "exibir_status", ou seja, deve exibir na tela o nome, a raça, a classe, o nível e a vida do personagem.
 
 #
 ### 📌 Tecnologias e ferramentas:
