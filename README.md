@@ -11,7 +11,7 @@
 ### 📌 Entrada
 </br>
 
-- 
+- A entrada deve conter as informações necessárias para a criação do personagem, como nome, raça e classe.
 
 #
 ### 📌 Saída
